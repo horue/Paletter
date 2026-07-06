@@ -1,3 +1,8 @@
+.material-icons{
+    cursor: pointer;
+    font-size: 60px;
+}
+
 .general-button{
     border-radius: 0%;
     background: none;
@@ -20,4 +25,16 @@
     padding: 8px;
     width: 100%;
     box-sizing: border-box;
+}
+
+.color-list{
+    display: flex;
+
+}
+
+.color-button{
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 20px;
 }
